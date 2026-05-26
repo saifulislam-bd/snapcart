@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Snapcart",
-  description: "",
+  description: "Snapcart is a new way to buy things online.",
 };
 
 export default function RootLayout({
